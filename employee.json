@@ -1,0 +1,83 @@
+[
+    {
+        "firstName":"Svetovid",
+        "lastName": "Hiroko",
+        "department": "IT",
+        "gender" : "M",
+        "address": "New york, USA",
+        "email" : "Svetovid.Hiroko@email.com",
+        "salary": 90000
+    },
+    {
+        "firstName":"Ashwin",
+        "lastName": "Freyr",
+        "department": "Sales",
+        "gender" : "M",
+        "address": "California, USA",
+        "email" : "Freyr.Ashwin@email.com",
+        "salary": 96000
+    },
+    {
+        "firstName":"Elyse",
+        "lastName": "Doruk",
+        "department": "HR",
+        "gender" : "F",
+        "address": "Manila, Philippines",
+        "email" : "Elyse.manila@email.com",
+        "salary": 75000
+    },
+    {
+        "firstName":"Ram",
+        "lastName": "Ludmila",
+        "department": "HR",
+        "gender" : "M",
+        "address": "Vatican, Rome",
+        "email" : "Ram.Ludmila24@email.com",
+        "salary": 60000
+    },
+    {
+        "firstName":"Marcella",
+        "lastName": "Bolek",
+        "department": "IT",
+        "gender" : "F",
+        "address": "Cho maine city, vietnam",
+        "email" : "Marcella24@email.com",
+        "salary": 93000
+    },
+    {
+        "firstName":"Liāna",
+        "lastName": "Ealdberht",
+        "department": "Sales",
+        "gender" : "F",
+        "address": "Glassgow, Germany",
+        "email" : "luckyGirl23@email.com",
+        "salary": 80000
+    },
+    {
+        "firstName":"Samira",
+        "lastName": "Vishnu",
+        "department": "Sales",
+        "gender" : "F",
+        "address": "Gujarat, India",
+        "email" : "Vishnu_samira@email.com",
+        "salary": 75000
+    },
+    {
+        "firstName":"Irīna",
+        "lastName": "Kofi",
+        "department": "IT",
+        "gender" : "F",
+        "address": "Belguim",
+        "email" : "kofiCoder@email.com",
+        "salary": 105000
+    },
+    {
+        "firstName":"Rameses",
+        "lastName": "Akhila",
+        "department": "Sales",
+        "gender" : "M",
+        "address": "Batangas, Philippines",
+        "email" : "Akhilatagabatangas@email.com",
+        "salary": 73000
+    }
+]
